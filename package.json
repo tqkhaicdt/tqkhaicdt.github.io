@@ -1,0 +1,38 @@
+{
+  "name": "tqkhaicdt.github.io",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "keywords": [
+    "gatsby"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tqkhaicdt/tqkhaicdt.github.io.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tqkhaicdt/tqkhaicdt.github.io/issues"
+  },
+  "homepage": "https://github.com/tqkhaicdt/tqkhaicdt.github.io#readme",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "3.10.2",
+    "gatsby-remark-katex": "5.7.0",
+    "gatsby-source-filesystem": "3.10.0",
+    "gatsby-transformer-remark": "4.7.0",
+    "katex": "0.13.13",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "engines": {
+    "node": ">=12.13.0",
+    "npm": ">=6.12.0"
+  }
+}
